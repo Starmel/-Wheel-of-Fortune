@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		586033EDE556AB53BDF629FF /* UIBezierPathLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58603CE45DA44C7EF5F77D11 /* UIBezierPathLength.swift */; };
+		5860384257ECCFD116C7C076 /* TrackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586035FA0C06D9F4530DCA74 /* TrackView.swift */; };
+		58603CC8E395B40F01D03CE6 /* SwiftSimplify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58603BDB05AF43BAD8BD6CBF /* SwiftSimplify.swift */; };
 		848EF659232816A700449114 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848EF658232816A700449114 /* AppDelegate.swift */; };
 		848EF65B232816A700449114 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848EF65A232816A700449114 /* ViewController.swift */; };
 		848EF65E232816A700449114 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848EF65C232816A700449114 /* Main.storyboard */; };
@@ -15,6 +18,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		586035FA0C06D9F4530DCA74 /* TrackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackView.swift; sourceTree = "<group>"; };
+		58603BDB05AF43BAD8BD6CBF /* SwiftSimplify.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftSimplify.swift; sourceTree = "<group>"; };
+		58603CE45DA44C7EF5F77D11 /* UIBezierPathLength.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIBezierPathLength.swift; sourceTree = "<group>"; };
 		848EF655232816A700449114 /* Wheel of Fortune.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wheel of Fortune.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		848EF658232816A700449114 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		848EF65A232816A700449114 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +66,9 @@
 				848EF65F232816A900449114 /* Assets.xcassets */,
 				848EF661232816A900449114 /* LaunchScreen.storyboard */,
 				848EF664232816A900449114 /* Info.plist */,
+				586035FA0C06D9F4530DCA74 /* TrackView.swift */,
+				58603CE45DA44C7EF5F77D11 /* UIBezierPathLength.swift */,
+				58603BDB05AF43BAD8BD6CBF /* SwiftSimplify.swift */,
 			);
 			path = "Wheel of Fortune";
 			sourceTree = "<group>";
@@ -137,6 +146,9 @@
 			files = (
 				848EF65B232816A700449114 /* ViewController.swift in Sources */,
 				848EF659232816A700449114 /* AppDelegate.swift in Sources */,
+				5860384257ECCFD116C7C076 /* TrackView.swift in Sources */,
+				586033EDE556AB53BDF629FF /* UIBezierPathLength.swift in Sources */,
+				58603CC8E395B40F01D03CE6 /* SwiftSimplify.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
